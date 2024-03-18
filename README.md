@@ -1,0 +1,2 @@
+#Weather Dashboard
+For this project we had to build a weather dashboard using third-party APIs. You are able to search for yhe city you want and the 5 day forcast for that city will show up along with the date. When you look up a new city the first will be stored below the sidebar even when you refresh the website. You will be able to click on any of the previous cities you looked up. For the API I used the 5 Day Weather Forcast to retrieve the weather data for cities. 
